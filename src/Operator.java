@@ -35,10 +35,14 @@ public class Operator {
 		
 		//increment and decrement  operator 
             int increment=100;
+            int decrement= 200;
              
 		System.out.println(increment++);//post increment
 		System.out.println(++increment);//pre increment
+		System.out.println(decrement--);//post degrement 
+		System.out.println(--decrement);//pre decrement 
 		
+	
 		
 		
 		
