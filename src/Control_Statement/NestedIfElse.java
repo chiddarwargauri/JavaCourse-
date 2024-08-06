@@ -32,7 +32,7 @@ public class NestedIfElse {
 	 }
 	 
 	 else if (day==6) {
-		 System.out.println("Staturday");
+		 System.out.println("Saturday");
 	 }
 	 else {
 		 System.out.println("invalid number");
